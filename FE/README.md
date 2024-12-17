@@ -11,5 +11,3 @@ Run `ng generate component component-name` to generate a new component.
 ## Build
 
 Run `ng build` to build the project. 
-
-by Hanine Ramdhane
